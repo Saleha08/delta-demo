@@ -1,2 +1,3 @@
 # delta-demo
-Exploring git and github
+Exploring git and github...
+
